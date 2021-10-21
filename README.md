@@ -15,4 +15,5 @@ The variables are:
 
 
 **Objective**<br>
-
+- to classify iris flowers among three species (Setosa, Versicolor, or Virginica) from sepals' and petals' length and width measurements. 
+- to design a model that makes useful classifications for new flowers.
